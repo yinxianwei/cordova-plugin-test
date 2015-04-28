@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-test",
+  "version": "0.0.1",
+  "description": "Cordova Test Plugin",
+  "cordova": {
+    "id": "cordova-plugin-test",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "cordova",
+    "cordova-ios"
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache 2.0"
+}
